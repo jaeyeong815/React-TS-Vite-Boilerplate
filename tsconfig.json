@@ -19,7 +19,8 @@
     "paths": {
       "@/*": ["src/*"],
       "@assets/*": ["src/assets/*"]
-    }
+    },
+    "jsxImportSource": "@emotion/react"
   },
   "include": ["src"],
   "references": [{ "path": "./tsconfig.node.json" }]
