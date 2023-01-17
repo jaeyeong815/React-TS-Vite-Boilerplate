@@ -21,6 +21,7 @@
       "@assets/*": ["src/assets/*"],
       "@components/*": ["src/components/*"],
       "@pages/*": ["src/pages/*"],
+      "@routers/*": ["src/routers/*"],
       "@styles/*": ["src/styles/*"]
     },
     "jsxImportSource": "@emotion/react"
