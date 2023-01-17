@@ -6,6 +6,7 @@ const reset = css`
     margin: 0;
     padding: 0;
     font: inherit;
+    font-family: 'Noto Sans KR', sans-serif;
     color: inherit;
   }
   :root {
